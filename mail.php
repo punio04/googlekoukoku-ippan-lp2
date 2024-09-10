@@ -68,7 +68,7 @@ $useToken = 1;
 $BccMail = "";
 
 // 管理者宛に送信されるメールのタイトル（件名）
-$subject = "【Google広告/一般LP】お問合わせがありました。";
+$subject = "【Google広告/一般LP】お問い合わせがありました。";
 
 // 送信確認画面の表示(する=1, しない=0)
 $confirmDsp = 0;
