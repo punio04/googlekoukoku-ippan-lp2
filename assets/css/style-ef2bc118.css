@@ -19553,3 +19553,29 @@ div#kenga_footer {
 .hFGZOz.hFGZOz.hFGZOz {
   display: none !important;
 }
+
+#xEBUTfAQJE {
+  display: none !important;
+}
+
+
+#appView .powrModal .contentWrapper {
+  position: relative;
+  overflow: auto;
+  max-height: 100%;
+  height: auto;
+  max-width: 96%;
+}
+
+#appView .powrModal .contentItem.margin-top-nil {
+  margin-top: 4px;
+}
+
+.image-a805571d_1730351123573 {
+  margin-top: 10px;
+}
+
+
+.powrMark.js-powrMark.pad-v-s.flex-center {
+  display: none;
+}
