@@ -19607,3 +19607,29 @@ div#kenga_footer {
   margin-top: 52px !important;
   overflow: visible;
 }
+
+
+
+
+
+
+
+.powrMark.js-powrMark.pad-v-s.flex-center {
+  display: none!important;
+}
+
+.popupPowrMarkContainer.centerPositioning {
+  width: 472px !important;
+}
+
+.content.fullImageLayout.flex-column.js-content {
+  height: 600px !important;
+}
+
+.spacer {
+  margin-top: 50px !important;
+}
+
+.bottom-spacing {
+  margin-bottom: 4px!important;
+}
