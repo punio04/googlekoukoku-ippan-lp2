@@ -19576,6 +19576,9 @@ div#kenga_footer {
 }
 
 
-.powrMark.js-powrMark.pad-v-s.flex-center {
+#appView .powrModal .powrMark {
+  height: 100px;
+  padding: 16px 4px;
+  bottom: -80px;
   display: none;
 }
