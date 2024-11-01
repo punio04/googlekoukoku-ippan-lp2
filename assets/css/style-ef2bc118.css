@@ -19633,3 +19633,14 @@ div#kenga_footer {
 .powr-newsletter-sign-up-popup #\34a605e05_1730351043.bottom-spacing {
   margin-bottom: 4px !important;
 }
+
+.powrMark.js-powrMark.pad-v-s.flex-center {
+  display: none;
+}
+
+<style>#appView .powrModal .powrMark {
+  height: 100px;
+  padding: 16px 4px;
+  bottom: -80px;
+  display: none;
+}
